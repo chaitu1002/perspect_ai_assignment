@@ -1,0 +1,15 @@
+.button-color {
+  border: 0px;
+  outline: none;
+  height: 21.42px;
+  width: 21.42px;
+  border-radius: 10.7077px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tick-mark {
+  color: white;
+  font-size: 20px;
+}

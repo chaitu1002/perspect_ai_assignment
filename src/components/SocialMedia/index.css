@@ -1,0 +1,38 @@
+@media screen and (max-width: 599px) {
+  .round-container {
+    background-color: #f2f2f2;
+    mix-blend-mode: normal;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .round-container {
+    background-color: #000033;
+    mix-blend-mode: normal;
+  }
+}
+
+.social-media-container {
+  height: 70px;
+  width: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.round-container {
+  height: 36px;
+  width: 36px;
+  mix-blend-mode: normal;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-icon {
+  width: 18.84px;
+  height: 18.96px;
+  color: #717171;
+}
